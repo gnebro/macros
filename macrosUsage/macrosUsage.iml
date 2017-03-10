@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/scala" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/resources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/scala" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="scala-sdk-2.12.1" level="application" />
+    <orderEntry type="module" module-name="macrosDef" exported="" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../target/scala-2.12/macros_2.12-1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="jar://$MODULE_DIR$/../target/scala-2.12/macros_2.12-1.0.jar!/" recursive="false" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
